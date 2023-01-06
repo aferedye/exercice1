@@ -1,4 +1,4 @@
-hx **** Exercice 1 de github ****  
+hx= Exercice 1 de github  
 ******************************  
   
 liste des commandes utilisé : 
